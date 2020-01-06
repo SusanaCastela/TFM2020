@@ -22,7 +22,7 @@ Our results suggest that these Deep Learning methods have a solid basis to be co
 ### Implementation
 * The entire code was created in Python 3.
 * For the classification of the plaque we used [keras](https://github.com/keras-team/keras) running tensorflow on the backend. The model is a classic CNN net, either trained for classification or regression with minor changes.
-*For the segmentation and grid saliency, we used a pytorch backend, making use of the pre-trained DeepLabV3-ResNet101 (for semantic segmentation) and VGG19 (for image classification).
+* For the segmentation and grid saliency, we used a pytorch backend, making use of the pre-trained DeepLabV3-ResNet101 (for semantic segmentation) and VGG19 (for image classification).
 
 ### Delivered on 14-01-2020 by:
 * Susana Castela
