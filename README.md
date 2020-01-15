@@ -1,4 +1,4 @@
-## Interpretability of Deep Learning methods in Carotid Artery Image Classification & Segmentation
+## Interpretability of Deep Learning Methods in Carotid Artery Image Classification & Segmentation
 
 In this thesis, we explored the interpretability of Deep Learning methods applied to Medical Imagery classficiation and Segmentation. 
 That is to say, the "human understandability" of the decision taken during the classification and segmentation of carotid artery ultrasound images, used to detect atherosclerosis (a know symptom of cardio-vascular disease).
