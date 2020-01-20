@@ -20,9 +20,10 @@ Our results suggest that these Deep Learning methods have a solid basis to be co
 * Saliency map calculation & application to segmented images
 
 ### Implementation
-* The entire code was created in Python 3.
+* The entire code was created in Python 3 and Python 2.
 * For the classification of the plaque we used [Keras](https://github.com/keras-team/keras) running [Tensorflow](https://www.tensorflow.org/tutorials) on the backend. The model is a classic CNN net, either trained for classification or regression with minor changes.
 * For the segmentation and grid saliency, we used both [Pytorch](https://pytorch.org/) and Keras with a [Theano](http://www.deeplearning.net/software/theano/) backend, making use of the pre-trained DeepLabV3-ResNet101 (for semantic segmentation) and VGG19 (for image classification).
+* For the implementation of Tiramisu 67 we used [CarotidArtery-DomainAdaptation](https://github.com/DaniSalva/CarotidArtery-DomainAdaptation)
 
 ### Delivered on 21-01-2020 by:
 * Susana Castela
